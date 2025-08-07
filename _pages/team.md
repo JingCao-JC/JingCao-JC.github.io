@@ -10,7 +10,7 @@ permalink: /team/
 <table>
 <tr>
   <td width="280" style="vertical-align:top; padding-right:20px;">
-    <img src="/assets/images/Cao_Jing.jpg" alt="Jing Cao" width="260"/>
+    <img src="/assets/images/CAO_Jing.jpg" alt="Jing Cao" width="260"/>
   </td>
   <td style="text-align:justify; line-height:1.5;">
     <strong>Jing Cao</strong><br>
