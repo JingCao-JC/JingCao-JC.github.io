@@ -13,28 +13,31 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: "Jing Cao" 
+email: "caoj@nus.edu.sg"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+github_username: "JingCao-JC"
 minimal_mistakes_skin: default
-search: true
+search: false
+url: "https://jingcao-jc.github.io"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+#theme: null
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+sass:
+  style: compressed
 include:
   - _pages
+  - assets/css
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -58,46 +61,44 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Jing Cao"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Materials Scientist"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+#    - label: "Website"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/"
+#    - label: "GitHub"
+#      icon: "fab fa-fw fa-github"
+#      url: "https://github.com/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
 
+#footer:
+#  links:
+#
+#    - label: "Google Scholar"
+#      icon: "ai ai-google-scholar"
+#      url: "https://scholar.google.com/citations?user=F6B_2I8AAAAJ&hl=en"
 footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+  links: false
 defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: "pages"
     values:
       layout: single
+      classes: wide
+      css: "custom"
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:
@@ -113,3 +114,16 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Team"
+    url: /team/
+  - title: "News and Highlights"
+    url: /news/
