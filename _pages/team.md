@@ -41,10 +41,8 @@ permalink: /team/
 
 <div style="font-size:80%">
 <ul>
-  <li><em>Tobias Haposan</em> – Two-dimensional Materials for Bulk Photovoltaic Effect / NUS</li>
-  <li><em>Jingxuan Li</em> – Thermoelectric Devices for Energy Harvesting and Cooling / NUS</li>
-  <li><em>Zhihao Wang</em> – Thermoelectric Devices for Energy Harvesting and Cooling / NUS</li>
-  <li><em>Weimiao Wang</em> – Heat Transfer Using Finite Element Analysis / NUS</li>
+  <li><em>Mingyin Liang</em> – Harvesting Electricity from Heat by Maximizing Temperature Gradient / NUS</li>
+  <li><em>Jingjie Tang</em> – Advanced Research on Thermoelectric Devices for Energy Harvesting and Cooling Applications / NUS</li>
 </ul>
 </div>
 
@@ -54,11 +52,16 @@ permalink: /team/
 
 <div style="font-size:80%">
 <ul>
+  <li><em>Tham Jia Yi, Justin</em> – Thermoelectric Devices for Energy Harvesting and Cooling Applications / NUS</li>
 </ul>
 </div>
 
 ## Alumni
 <div style="font-size:80%">
 <ul>
+  <li><em>Tobias Haposan</em> – Two-dimensional Materials for Bulk Photovoltaic Effect / NUS</li>
+  <li><em>Jingxuan Li</em> – Thermoelectric Devices for Energy Harvesting and Cooling / NUS</li>
+  <li><em>Zhihao Wang</em> – Thermoelectric Devices for Energy Harvesting and Cooling / NUS</li>
+  <li><em>Weimiao Wang</em> – Heat Transfer Using Finite Element Analysis / NUS</li>
 </ul>
 </div>
