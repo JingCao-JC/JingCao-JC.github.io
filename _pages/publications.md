@@ -26,6 +26,7 @@ For a full publication list, please visit
 <b>1.</b> <b>Jing Cao</b>✉, J. Dong, J. Wu, A. Suwardi✉.  
 “Evapolectrics: Direct Harvesting of Electricity from Evaporation Using Thermoelectrics.”  
 <i>ACS Nano</i>, Just Accepted. <a href="https://pubs.acs.org/journal/ancac3" target="_blank">Link</a>
+<span class="pub-note">⭐ Highlighted by <i>Popular Mechanics</i></span>
 </div>
 
 <div class="pub-entry">
