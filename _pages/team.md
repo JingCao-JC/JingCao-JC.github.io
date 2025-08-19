@@ -16,9 +16,11 @@ permalink: /team/
     <strong>Jing Cao</strong><br>
     Ph.D. University of Cambridge (2019) <br>
     <strong>Email:</strong> <br> cao_jing[at]imre.a-star.edu.sg <br> caoj[at]nus.edu.sg<br><br>
+    
     <strong>Current:</strong><br>
     Adjunct Assistant Professor, Department of Materials Science and Engineering, National University of Singapore<br>
     Scientist, Institute of Materials Research and Engineering (IMRE), A*STAR<br><br>
+    Faculty Page: https://cde.nus.edu.sg/mse/staff/cao-jing/<br>
   </td>
 </tr>
 </table>
