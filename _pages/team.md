@@ -13,7 +13,7 @@ permalink: /team/
     <img src="/assets/images/Jing.jpg" alt="Jing Cao" width="260"/>
   </td>
   <td style="text-align:justify; line-height:1.5;">
-    <strong>Jing Cao</strong><br>
+    <strong><a href="https://cde.nus.edu.sg/mse/staff/cao-jing/" target="_blank" rel="noopener noreferrer">Jing Cao</a></strong><br>
     Ph.D. University of Cambridge (2019) <br>
     <strong>Email:</strong> <br> cao_jing[at]imre.a-star.edu.sg <br> caoj[at]nus.edu.sg<br><br>
     
