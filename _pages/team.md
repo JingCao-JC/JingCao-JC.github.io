@@ -20,7 +20,7 @@ permalink: /team/
     <strong>Current:</strong><br>
     Adjunct Assistant Professor, Department of Materials Science and Engineering, National University of Singapore<br>
     Scientist, Institute of Materials Research and Engineering (IMRE), A*STAR<br><br>
-    Faculty Page: https://cde.nus.edu.sg/mse/staff/cao-jing/<br>
+    [Faculty Page](https://cde.nus.edu.sg/mse/staff/cao-jing/)<br>
   </td>
 </tr>
 </table>
