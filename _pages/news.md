@@ -6,6 +6,7 @@ classes: wide
 ---
 
 ## News and Highlights
+- **August 2025** - Check this YouTube video featuring what Evapolectric does: [The Curious Minute](https://youtube.com/shorts/7TmN8_ow3-M?si=oaE7KiefFbX8TYdM) 
 - **August 2025** - Our paper in [ACS Nano](https://pubs.acs.org/doi/full/10.1021/acsnano.5c10693) was highlighted by *Popular Mechanics*: [In an Energy Breakthrough, Scientists Just Pulled Electricity Out of Thin Air](https://www.popularmechanics.com/science/energy/a65625500/evapoelectricity-evaporation-energy/)
 - **July 2025** - Dr. Jing was selected as a Vebleo Fellow! 
 - **April 2025** - Our paper in [Advanced Functional Materials](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adfm.202423371) was highlighted by *Advanced Science News*:  
