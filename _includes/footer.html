@@ -1,8 +1,15 @@
-<!-- hits.sh sitewide counter: increments on every page view -->
-<img
-  src="https://hits.sh/jingcao-jc.github.io.svg?view=1"
-  alt=""
-  referrerpolicy="no-referrer"
-  width="1" height="1"
-  style="position:absolute;left:-9999px;border:0"
-/>
+<script>
+(function () {
+  // Don't count local previews
+  if (location.hostname === '127.0.0.1' || location.hostname === 'localhost') return;
+
+  // Hard guard: ensure only one increment per page render even if included multiple times
+  if (window.__HIT_SH_FIRED__) return;
+  window.__HIT_SH_FIRED__ = true;
+
+  // Increment the sitewide counter
+  var i = new Image();
+  i.referrerPolicy = 'no-referrer';
+  i.src = 'https://hits.sh/jingcao-jc.github.io.svg?view=1&ts=' + Date.now(); // cache-bust
+})();
+</script>
