@@ -1,15 +1,17 @@
 <script>
 (function () {
-  // Don't count local previews
   if (location.hostname === '127.0.0.1' || location.hostname === 'localhost') return;
 
-  // Hard guard: ensure only one increment per page render even if included multiple times
   if (window.__HIT_SH_FIRED__) return;
   window.__HIT_SH_FIRED__ = true;
 
-  // Increment the sitewide counter
+  var now = Date.now();
+  var last = +sessionStorage.getItem('hits_sh_last') || 0;
+  if (now - last < 1500) return;
+  sessionStorage.setItem('hits_sh_last', now);
+
   var i = new Image();
   i.referrerPolicy = 'no-referrer';
-  i.src = 'https://hits.sh/jingcao-jc.github.io.svg?view=1&ts=' + Date.now(); // cache-bust
+  i.src = 'https://hits.sh/jingcao-jc.github.io.svg?view=1&ts=' + now;
 })();
 </script>
