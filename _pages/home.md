@@ -14,9 +14,3 @@ We a group of materials scientists interested in understanding and engineering m
   <img src="/assets/images/Atom_to_Device.png" alt="Lab overview" width="1000"/>
 </p>
 
-<p align="center">
-  <a href="https://www.hitwebcounter.com" target="_blank">
-    <img src="https://hitwebcounter.com/counter/counter.php?page=21434239&style=0003&nbdigits=5&type=page&initCount=0"
-         title="Visitor Counter" alt="Hitwebcounter Tools" border="0" />
-  </a>
-</p>
