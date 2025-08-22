@@ -16,7 +16,7 @@ We are a group of materials scientists interested in understanding and engineeri
 
 <p>
   <img
-    src="https://hits.sh/jingcao-jc.github.io.svg?style=flat-square&label=Site%20visits&labelColor=ececec&color=555555"
+    src="https://hits.sh/jingcao-jc.github.io.svg?style=flat-square&label=Site%20visits&labelColor=ececec&color=555555&no-track=1"
     alt="Site visits counter"
     loading="lazy"
     referrerpolicy="no-referrer"
